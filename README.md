@@ -124,6 +124,7 @@ Perhaps insights into their preferred mode of navigation might help?
 Most of the time they remain in the same country, but 21.5% is not at all an insignificant portion. Assuming when they flee to another country is when the most resource is needed, **it’s best we devise a strategy for clear, responsive coordination between countries in such cases.**
 We happen to know that Barricade attacks result in the most deaths. Did we make the best decision possible when lives were on the line, regarding ransom payment?
 ![We only paid ransom ](img/image14.png)
+
 We only paid ransom 6.4% of the time – surprisingly low, yet understandable due to the volatility of terrorist operations.
 
 ## FINDINGS AND INSIGHTS 
