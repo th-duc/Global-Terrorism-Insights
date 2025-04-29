@@ -1,6 +1,6 @@
 # GLOBAL TERRORISM ANALYSIS 
 The Global Database is an open-source dataset that documents terrorist incidents worldwide, recorded as a log of attacks. It has been in operation since 1970, providing information on attack methods, locations, and casualties, and the terrorist organizations themselves.
-I downloaded the dataset from the [National Consortium for the Study of Terrorism and Responses to Terrorism] (https://www.start.umd.edu/gtd-download). Alternatively, you could download the dataset from [Kaggle] (https://www.kaggle.com/datasets/START-UMD/gtd?resource=download)
+I downloaded the dataset from the [National Consortium for the Study of Terrorism and Responses to Terrorism](https://www.start.umd.edu/gtd-download). Alternatively, you could download the dataset from [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd?resource=download)
 
 ## GOAL OF THE ANALYSIS 
 ### Questions to answer 
