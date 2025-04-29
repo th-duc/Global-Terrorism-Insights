@@ -32,6 +32,7 @@ I decided to drop columns that are either irrelavant to the scope of the analysi
 -	attacktype3
 -	attacktype3_txt
 -	ransomnote
+
 I also changed some columns’ label for better readability.
 
 ### Overview of important fields:
