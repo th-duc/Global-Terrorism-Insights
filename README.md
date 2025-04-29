@@ -149,11 +149,8 @@ Finally, to conclude our analysis with proposed solutions:
 |Insights|Proposed solutions|
 |:--------|:------------------|
 |Terrorist groups are unlikely to deploy weapons capable of causing mass casualties|Tighten the regulation of improvised and rudimentary weapons|
-|Given the inherently isolated and spontaneous nature of terrorism, only well-established groups with external funding can utilize advanced weaponry|- Strengthen international cooperation to establish transparent measures for military expenditures, preventing the support of terrorist activites 
-- Monitor the movements of groups with repeated attack history|
-|86% of hostages not rescued, mostly in barricade situations|- Improve aviation security
-- Organize hostage rescue drills in high-security buildings, develop equiment to support such operations
-- Revise negotiation policies in hostage-related situations|
+|Given the inherently isolated and spontaneous nature of terrorism, only well-established groups with external funding can utilize advanced weaponry|<ul><li<Strengthen international cooperation to establish transparent measures for military expenditures, preventing the support of terrorist activites</li><li>Monitor the movements of groups with repeated attack history</li></ul>|
+|86% of hostages not rescued, mostly in barricade situations|<ul><li>Improve aviation security</li><li>Organize hostage rescue drills in high-security buildings, develop equiment to support such operations</li><li>Revise negotiation policies in hostage-related situations</li></ul>|
 |79% of terrorist organizations, despite moving, remain within the borders of the original country|Strengthen communication networks between relevant government organizations within a country and across nations in cases of emergency|
 
 ## LIMITATIONS OF THE ANALYSIS
