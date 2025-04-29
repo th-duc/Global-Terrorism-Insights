@@ -149,7 +149,7 @@ Finally, to conclude our analysis with proposed solutions:
 
 ## LIMITATIONS OF THE ANALYSIS
 It’s important for me to identify and acknowledge the limitations of my study. 
-Due to the sensitive topic of the dataset, as someone who loves data and has an interest in the topic despite having no formal education on international affairs or policies, I avoided taking leaps in logic that would make my analysis look baffling under an expert’s scrutiny. 
+Due to the sensitive topic of the dataset, as someone who loves data and has an interest in the topic despite having no formal education on international affairs or policies, I avoided taking leaps in logic that might not withstand expert scrutiny.
 
 ## REFERENCES 
 -	The Global Terrorism Database dataset: https://www.start.umd.edu/gtd-download
