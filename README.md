@@ -58,8 +58,11 @@ However, it is important to hightlight that the rise in fatal attacks – those 
 The casualty statistics is *surprising*:
 -	**Fatalities averaging 2.4 per attack, with mode = 0**
 -	**Wounded averaging 3.1 per attack, with mode = 0**
+-	
 To emphasize the point, here is a visualization showing how attacks with few fatalities are overwhelmingly dominant:
+
 ![](img/image1.png)
+
 --> Countrary to popular belief, terrorist attacks often leave very few casualty
 
 The coordinated, high-casualty terrorist attacks of 9/11 are a perfect example of a black swan event – defined by essayist Nassim Nicholas Taleb as one that falls outside the realm of regular expectations, has a high impact, and defies predictions. 
@@ -85,6 +88,7 @@ The most popular explosive types are:
 -	Projectile
 -	Other explosive type
 -	Grenade
+
 It’s unfortunate (and understandably so) that most of the time we can’t know for sure the type of explosive used.
 Time to take a look at their firearms:
 ![Most popular firearm types: Automatic/Semi-automatic rifle, Handgun, Rifle/shotgun](img/image6.png)
@@ -94,6 +98,7 @@ The most popular firearm types are:
 -	Handgun
 -	Rifle/shotgun
 So far, nothing shocking about their weapons. But are they interested in revolutionizing their lethal instruments? To answer that question, let’s observe the types of weapons used over the years:
+
 ![](img/image7.png)
 
 Usage of biological weapons, chemical weapons and radiological weapons do not fluctuate over the years. It’s safe to assume terrorists either have no interests in them or have no resource to do so.
@@ -105,6 +110,7 @@ First of all, how common is civilians getting taken as hostage?
 
 A considerable amount of time, which equates to 7.5% of all terrorist attacks.
 Unfortunately, 57.4% of hostages are executed, as seen in the pie chart:
+
 ![57.4% of hostages are executed](img/image9.png)
 
 We are able to rescue them only 14.1% of the time:
@@ -113,16 +119,19 @@ We are able to rescue them only 14.1% of the time:
 All data points to this being an area for improvement.
 I explored in a few directions to zero in on the solutions: The **types of attack most commonly associated with hostage taking/kidnapping**, their **preferred mode of navigation** after taking hostages, and lastly, the **effectiveness of negotiating with terrorists.**
 As we can see, Hijacking events have the highest chance of hostages being involved, while Barricade incidents result in the most deaths:
+
 ![Hijacking events have 89.7% chance of involving hostages](img/image11.png)
 
 ![Barricade incidents result in the most deaths](img/image12.png)
 
 We should look into how to best prevent hijacking/kidnapping and barricade incidents from happening.
 Perhaps insights into their preferred mode of navigation might help?
+
 ![](img/image13.png)
 
 Most of the time they remain in the same country, but 21.5% is not at all an insignificant portion. Assuming when they flee to another country is when the most resource is needed, **it’s best we devise a strategy for clear, responsive coordination between countries in such cases.**
 We happen to know that Barricade attacks result in the most deaths. Did we make the best decision possible when lives were on the line, regarding ransom payment?
+
 ![We only paid ransom ](img/image14.png)
 
 We only paid ransom 6.4% of the time – surprisingly low, yet understandable due to the volatility of terrorist operations.
