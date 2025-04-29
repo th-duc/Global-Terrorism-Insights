@@ -16,7 +16,7 @@ I downloaded the dataset from the [National Consortium for the Study of Terroris
 4.	Once captured, the terrorists have the upper hand, so we may have to honor their demand
 
 ## DATA CLEANING
-I decided to drop columns that are either irrelavant to the scope of the analysis or contain overly specific details: 
+I decided to drop columns that are either irrelevant to the scope of the analysis or contain overly specific details: 
 -	`latitude`
 -	`longtitude`
 -	`INT_LOG`
