@@ -17,37 +17,37 @@ I downloaded the dataset from the [National Consortium for the Study of Terroris
 
 ## DATA CLEANING
 I decided to drop columns that are either irrelavant to the scope of the analysis or contain overly specific details: 
--	latitude
--	longtitude
--	INT_LOG
--	INT_IDEO
--	INT_MISC
--	INT_ANY
--	location
--	addnotes
--	dbsource
--	summary
--	provstate
--	alternative_txt
--	attacktype3
--	attacktype3_txt
--	ransomnote
+-	`latitude`
+-	`longtitude`
+-	`INT_LOG`
+-	`INT_IDEO`
+-	`INT_MISC`
+-	`INT_ANY`
+-	`location`
+-	`addnotes`
+-	`dbsource`
+-	`summary`
+-	`provstate`
+-	`alternative_txt`
+-	`attacktype3`
+-	`attacktype3_txt`
+-	`ransomnote`
 
 I also changed some columns’ label for better readability.
 
 ### Overview of important fields:
--	**extended**: indicating whether the incident happened in more than 24 hours
--	**crit1**: terrorism for political/social/economic purposes
--	**crit2**: terrorism for intimidation/coercion purposes
--	**crit3**: terrorism aimed at civilians
--	**multiple**: indicating whether the attack is part of a series of related/planned attacks
--	**success**: indicating whether the attack was successful
--	**ishostkid**: indicating whether the terrorists capture hostages
--	**nhostkid**: number of hostages taken
--	**kidhijcountry**: name of the country where the terrorists captured the hostages
--	**ransom**: indicating whether ransom was demanded
--	**hostkidoutcome**: the outcome of hostages
--	**related**: ID of related attacks (only applicable if multiple == 1)
+-	`extended`: indicating whether the incident happened in more than 24 hours
+-	`crit1`: terrorism for political/social/economic purposes
+-	`crit2`: terrorism for intimidation/coercion purposes
+-	`crit3`: terrorism aimed at civilians
+-	`multiple`: indicating whether the attack is part of a series of related/planned attacks
+-	`success`: indicating whether the attack was successful
+-	`ishostkid`: indicating whether the terrorists capture hostages
+-	`nhostkid`: number of hostages taken
+-	`kidhijcountry`: name of the country where the terrorists captured the hostages
+-	`ransom`: indicating whether ransom was demanded
+-	`hostkidoutcome`: the outcome of hostages
+-	`related`: ID of related attacks (only applicable if multiple == 1)
 
 ## DATA ANALYSIS
 Firstly, let’s see the general trend of terrorism:
@@ -76,7 +76,7 @@ Most of the attacks are **quick sweeps**, ending in less than 24 hours:
 Terrorists often attack with low coordinance, as demonstrated by the number of coordinated attacks compared to uncoordinated ones:
 ![The attacks are predominantly uncoordinated](img/image3.png)
 
-The above chart is not perfect, since the database only adopted the columns “multiple” and “related” after 1997. I opted to only include attacks where we can be certain whether it was coordinated.
+The above chart is not perfect, since the database only adopted the columns `multiple` and `related` after 1997. I opted to only include attacks where we can be certain whether it was coordinated.
 What about their weapons of choice?
 ![](img/image4.png)
 
