@@ -154,13 +154,9 @@ Finally, to conclude our analysis with proposed solutions:
 |86% of hostages not rescued, mostly in barricade situations|<ul><li>Improve aviation security</li><li>Organize hostage rescue drills in high-security buildings, develop equiment to support such operations</li><li>Revise negotiation policies in hostage-related situations</li></ul>|
 |79% of terrorist organizations, despite moving, remain within the borders of the original country|Strengthen communication networks between relevant government organizations within a country and across nations in cases of emergency|
 
-## LIMITATIONS OF THE ANALYSIS
-It’s important for me to identify and acknowledge the limitations of my study. 
-Due to the sensitive topic of the dataset, as someone who loves data and has an interest in the topic despite having no formal education on international affairs or policies, I avoided taking leaps in logic that might not withstand expert scrutiny.
-
 ## REFERENCES 
 -	The Global Terrorism Database dataset: https://www.start.umd.edu/gtd-download
-
+-   GTD Codebook: Methodology, Inclusion Criteria, and Variables: https://www.start.umd.edu/sites/default/files/2024-10/Codebook.pdf
 
 
 
